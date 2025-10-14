@@ -78,3 +78,11 @@ li {
 .delete-btn:hover {
     background: #c0392b;
 }
+
+.task-count {
+    text-align: center;
+    color: #667eea;
+    font-size: 18px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
